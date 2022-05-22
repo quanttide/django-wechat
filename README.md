@@ -1,3 +1,3 @@
-# django_wechat
+# django-wechat
 
-微信Django SDK
+Django SDK for WeChat
