@@ -4,7 +4,7 @@ from wechatpy.pay.utils import calculate_signature
 from django.test import TestCase
 from django.conf import settings
 
-from ..sdk.pay import *
+from django_wechat.sdk.pay import *
 
 
 class ParseUnifiedOrderResultTestCase(TestCase):

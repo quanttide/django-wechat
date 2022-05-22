@@ -9,7 +9,7 @@
 from django.test import TestCase
 from django.utils import timezone
 
-from ..sdk.work import *
+from django_wechat.sdk.work import *
 
 
 class AccessTokenTestCase(TestCase):

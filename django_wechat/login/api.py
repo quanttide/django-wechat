@@ -5,7 +5,7 @@
 
 from wechat_login_sdk import get_access_token, get_userinfo
 
-from django_wechat_login.settings import wechat_login_sdk_settings
+from django_wechat.django_wechat_login.settings import wechat_login_sdk_settings
 
 
 def get_wechat_access_token(code, app_label=None):
